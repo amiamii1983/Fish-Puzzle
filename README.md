@@ -5,6 +5,16 @@
 > 竖屏横屏都可玩！愿能带给你快乐。
 
 ---
+![游戏主菜单](https://github.com/user-attachments/assets/a32a71d3-1025-4939-bc43-ccfc026515e5)
+![游戏说明](https://github.com/user-attachments/assets/69a31e78-49ff-4ed3-85df-29ae553578ce)
+![选择角色](https://github.com/user-attachments/assets/4bb5fc29-b75e-47aa-afd5-0b987f6013c6)
+![游戏画面](https://github.com/user-attachments/assets/b9b07b83-3e54-483a-9b89-f8281f126838)
+
+## 📺 视频演示 (Video Demo)
+点击下方图片观看游戏演示：
+
+[![点击观看视频](https://img.youtube.com/vi/8rb1SH2oi2c/maxresdefault.jpg)](https://www.youtube.com/watch?v=8rb1SH2oi2c)
+
 
 ## 🎮 游戏简介
 **《小鱼方块》** 是一款纯粹的策略对战消除游戏。
