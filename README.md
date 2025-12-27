@@ -1,4 +1,4 @@
-# 🐟 小鱼方块 (Fish Puzzle)
+#  小鱼方块 (Fish Puzzle)
 
 > **大家好，我是 amiamii。**
 > 分享一款我用 AI 辅助开发完成的安卓 & iOS 手机游戏。
